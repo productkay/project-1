@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1038325347416",
+    "project_id": "women-workout-29937",
+    "storage_bucket": "women-workout-29937.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038325347416:android:775d14bae8753f5786062d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_women_workout_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038325347416-g5rl0mvnc9sq86jh2umf3e4ohm88e8md.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_women_workout_ui",
+            "certificate_hash": "35ca31fcf7958e0134da8e3b201ac72523474431"
+          }
+        },
+        {
+          "client_id": "1038325347416-spfs53pdiq81u6k5ich9vrfukrpaqab0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp24rP8bkGvA5YvDYH9lqGkS6WN-E13wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038325347416-spfs53pdiq81u6k5ich9vrfukrpaqab0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038325347416-t881mlt9ns08c9keiphv7lvu7vgeqakq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutter-women-workout-ui"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038325347416:android:8508c9335ee2d65b86062d",
+        "android_client_info": {
+          "package_name": "com.example.flutterwomenworkout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038325347416-spfs53pdiq81u6k5ich9vrfukrpaqab0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp24rP8bkGvA5YvDYH9lqGkS6WN-E13wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038325347416-spfs53pdiq81u6k5ich9vrfukrpaqab0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038325347416-t881mlt9ns08c9keiphv7lvu7vgeqakq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutter-women-workout-ui"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
